@@ -2,6 +2,10 @@
 
 A **computer vision** project using **YOLOv11** for vehicle detection, **Norfair** for tracking, and **Gradio** for the user interface.
 
+<p align="center">
+  <img src="assets/vehicle_tracking.gif" alt="Vehicle Tracking">
+</p>
+
 # Features
 - **Real-time vehicle detection** with YOLOv11
 - **Object tracking** using Norfair
@@ -31,13 +35,3 @@ OR
 ```sh
 python src/vehicle_tracking.py
 ```
-
-## 🖼️ Preview
-
-- Web interface
-
-![Web Interface](assets/web_interface_screen.png)
-
-- Vehicle tracking
-
-![Vehicle Tracking](assets/vehicle_tracking.gif)
