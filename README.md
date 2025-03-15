@@ -1,4 +1,4 @@
-# 🚗 Vehicle Detection and Counting
+# 🚗 Vehicle Detection, Tracking, and Counting
 
 A **computer vision** project using **YOLOv11** for vehicle detection, **Norfair** for tracking, and **Gradio** for the user interface.
 
